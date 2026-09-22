@@ -1,6 +1,6 @@
 # Fasciculation-Annotator
 
-> A three-script desktop annotation and dataset-building pipeline for ALS fasciculation events in ultrasound video. Covers the full workflow from interactive ROI annotation → manual scale-specific ROI selection → multi-scale cropped clip export — producing a structured dataset ready for deep-learning experiments.
+> An annotation and dataset-building pipeline for ALS fasciculation events in ultrasound video. Covers the full workflow from interactive ROI annotation → manual scale-specific ROI selection → multi-scale cropped clip export — producing a structured dataset ready for deep-learning experiments.
 
 ---
 
