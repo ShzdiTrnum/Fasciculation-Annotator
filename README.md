@@ -14,9 +14,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Directory](#data-directory)
-- [Annotation Excel Format](#annotation-excel-format)
-- [Output Excel Format](#output-excel-format)
-- [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Related Repositories](#related-repositories)
 - [Citation](#citation)
 - [License](#license)
@@ -165,7 +162,7 @@ python multi_scale_dataset_builder.py
 | Package | Version | Used by |
 |---------|---------|---------|
 | Python | ≥ 3.10 | All |
-| PySide6 | ≥ 6.5 | `annotator.py`, `manual_roi_select.py` |
+| PySide6 | ≥ 6.5 | `annotator.py` |
 | opencv-python | ≥ 4.8 | All three scripts |
 | pandas | ≥ 2.0 | `multi_scale_dataset_builder.py` |
 | openpyxl | ≥ 3.1 | `multi_scale_dataset_builder.py` (Excel read/write) |
